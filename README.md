@@ -16,7 +16,7 @@ A lightweight, terminal-based clone of the popular word-guessing game **Wordle**
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/python-wordle.git](https://github.com/your-username/python-wordle.git)
+    git clone https://github.com/kalyan-gangster/Wordle-python.git
     cd python-wordle
     ```
 
@@ -26,10 +26,10 @@ A lightweight, terminal-based clone of the popular word-guessing game **Wordle**
     python --version
     ```
 
-3.  *(Optional)* **Install dependencies:**
-    If your version uses libraries like `colorama` for terminal colors:
+3.   **Install dependencies:**
+    If your version uses libraries like `pygame`
     ```bash
-    pip install colorama
+    pip install pygame
     ```
 
 ## 🎮 How to Play
